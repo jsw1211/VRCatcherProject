@@ -51,6 +51,10 @@
 				"Mac",
 				"IOS"
 			]
+		},
+		{
+			"Name": "MetaHumanCharacter",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
