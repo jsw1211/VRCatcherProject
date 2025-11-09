@@ -1,2 +1,6 @@
 C:UnrealEngineVRCatcherProjectVREProject filter=lfs diff=lfs merge=lfs -text
 SKM_TempHuman_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+SKM_MH_HyunJin_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+MH_HyunJin.uasset filter=lfs diff=lfs merge=lfs -text
+SKM_MH_SeungHwan_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+MH_SeungHwan.uasset filter=lfs diff=lfs merge=lfs -text
